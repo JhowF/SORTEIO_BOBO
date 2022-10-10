@@ -17,9 +17,12 @@ div{
 
 }
 #div_1{
-    display: flex;
-    justify-content: center;
+    text-align: center;
     
+}
+p{
+    font-size: 16px;
+    padding-top: 20px;
 }
 
 #div_2{

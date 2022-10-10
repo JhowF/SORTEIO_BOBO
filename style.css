@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+div{
+    padding-top: 20px;
+    
+}
+#div_0{
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 20vh;
+
+}
+#div_1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#div_2{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+#div_3{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+#User_name{
+    width: 500px;
+    height:15px;
+    font-size: 12px;
+    
+
+}
+#labelcarc{
+    margin-top: 10px;
+}
+
+.carac_name{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    width:17%;
+    align-content: flex-start;
+    
+}
+#divbutton{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 220px;
+    height: 50px;
+    margin: 40px;
+    margin-top: 180px;
+}

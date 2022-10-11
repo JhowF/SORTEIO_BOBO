@@ -78,3 +78,9 @@ button:hover{
     background-color: rgb(225, 233, 196);
     font-size: 17px;
 }
+
+#demo{
+    
+    padding: 0;
+    text-align: center;
+}
